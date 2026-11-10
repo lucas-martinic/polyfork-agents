@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "polyfork",
+  "description": "Polyfork: free low-poly 3D models and kits for agents.",
+  "owner": { "name": "Polyfork", "url": "https://polyfork.dev" },
+  "plugins": [
+    {
+      "name": "polyfork",
+      "description": "Free low-poly 3D models and kits: search, remix with sliders, place at real-world scale. MCP server + skill.",
+      "category": "design",
+      "source": "./plugins/polyfork",
+      "homepage": "https://polyfork.dev/agents"
+    }
+  ]
+}

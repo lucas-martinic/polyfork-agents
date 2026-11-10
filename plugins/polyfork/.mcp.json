@@ -1,0 +1,6 @@
+{
+  "polyfork": {
+    "type": "http",
+    "url": "https://polyfork.dev/mcp"
+  }
+}

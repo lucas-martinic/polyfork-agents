@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "polyfork",
+  "version": "1.0.0",
+  "description": "Free low-poly 3D models and kits for three.js, React Three Fiber, Unity, Godot and the web: search 3,000+ models, remix them with their sliders, place them at real-world scale.",
+  "author": { "name": "Polyfork", "url": "https://polyfork.dev" },
+  "homepage": "https://polyfork.dev/agents",
+  "repository": "https://github.com/lucas-martinic/polyfork-agents",
+  "license": "MIT",
+  "keywords": ["3d", "models", "low-poly", "three.js", "gltf", "game-assets", "mcp"]
+}

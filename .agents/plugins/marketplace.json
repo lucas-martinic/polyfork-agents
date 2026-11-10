@@ -1,0 +1,13 @@
+{
+  "name": "polyfork",
+  "owner": { "name": "Polyfork", "url": "https://polyfork.dev" },
+  "plugins": [
+    {
+      "name": "polyfork",
+      "source": "./plugins/polyfork",
+      "description": "Free low-poly 3D models and kits: search, remix with sliders, place at real-world scale.",
+      "category": "design",
+      "policy": { "installation": "AVAILABLE", "authentication": "NONE" }
+    }
+  ]
+}

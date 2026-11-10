@@ -1,0 +1,9 @@
+{
+  "name": "polyfork",
+  "version": "1.0.0",
+  "description": "Free low-poly 3D models and kits for three.js, Unity, Godot and the web.",
+  "mcpServers": {
+    "polyfork": { "httpUrl": "https://polyfork.dev/mcp" }
+  },
+  "contextFileName": "plugins/polyfork/skills/polyfork/SKILL.md"
+}

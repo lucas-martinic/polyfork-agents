@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "polyfork": { "serverUrl": "https://polyfork.dev/mcp" }
+  }
+}

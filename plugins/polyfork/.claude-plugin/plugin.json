@@ -1,0 +1,28 @@
+{
+  "name": "polyfork",
+  "version": "1.0.0",
+  "description": "Free low-poly 3D models and kits for three.js, React Three Fiber, Unity, Godot and the web. Search 3,000+ models, remix them with their sliders, and drop them into your project at real-world scale.",
+  "author": {
+    "name": "Polyfork",
+    "url": "https://polyfork.dev",
+    "email": "lucas@polyfork.dev"
+  },
+  "homepage": "https://polyfork.dev/agents",
+  "repository": "https://github.com/lucas-martinic/polyfork-agents",
+  "license": "MIT",
+  "keywords": [
+    "3d",
+    "models",
+    "low-poly",
+    "three.js",
+    "gltf",
+    "game-assets",
+    "mcp"
+  ],
+  "displayName": "Polyfork",
+  "icon": "./logo.png",
+  "documentationUrl": "https://polyfork.dev/agents",
+  "supportUrl": "https://polyfork.dev/support",
+  "privacyPolicyUrl": "https://polyfork.dev/privacy",
+  "termsOfServiceUrl": "https://polyfork.dev/legal"
+}
